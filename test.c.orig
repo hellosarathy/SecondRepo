@@ -1,0 +1,8 @@
+int main()
+{
+<<<<<<< HEAD
+	//added by user2
+=======
+    //some line by user1
+>>>>>>> 0d8cac7143f82d88241fe4b17c3f2eb1748d04a0
+}
